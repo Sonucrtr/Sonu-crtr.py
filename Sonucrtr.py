@@ -3,6 +3,11 @@
 #github= SONU-CRTR
 #LE BETE AA GYE BHOKAAL MACHANE
 #INDIAN
+# fb id https://www.facebook.com/profile.php?id=100055205307485#created by Sonu Nigham 
+#open source by Sonucrtr.py
+#github= SONU-CRTR
+#LE BETE AA GYE BHOKAAL MACHANE
+#INDIAN
 # fb id https://www.facebook.com/profile.php?id=100055205307485
 
 
